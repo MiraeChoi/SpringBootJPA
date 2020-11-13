@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1da8971-8472-44b8-9ead-7d0174af969e" name="Default Changelist" comment="add jpql type expression">
+      <change afterPath="$PROJECT_DIR$/../../../DEVengers/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.5.202002262342/language-servers/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DEVengers/front-back 연결 파일/chatting_test/node_modules/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DEVengers/front-back 연결 파일/chatting_test/node_modules/socket.io-adapter/.idea/socket.io-adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DEVengers/work_front/airdnd-frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DEVengers/work_front/chatting_test/node_modules/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../DEVengers/work_front/chatting_test/node_modules/socket.io-adapter/.idea/socket.io-adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../android_0609_cmr/work/AndroidTetris1/.idea/modules/AndroidTetris1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../android_0609_cmr/work/AndroidTetris1/.idea/modules/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/CodingTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingTest/src/package1/Q42576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/java/hihi/hispring/controller/HiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/java/hihi/hispring/domain/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/java/hihi/hispring/repository/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/java/hihi/hispring/repository/MemoryMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/java/hihi/hispring/service/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/resources/static/hi-static.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/resources/templates/hi-template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/main/resources/templates/hihi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/test/java/hihi/hispring/repository/MemoryMemberRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hi-spring/src/test/java/hihi/hispring/service/MemberServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/MemberType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../지우지마세염/Topstar MR/Study/2020-10 핀테크아카데미/20201014_핀테크교육/03.실습자료및프로그램/01.프로그램/eclipse-jee-2020-06-R-win32-x86_64/eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.8.202005190736/node_modules/clone/clone.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpql/src/main/java/jpql/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/JpaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpql/src/main/java/jpql/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jpql/src/main/java/jpql/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpql/target/classes/jpql/JpaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jpql/target/classes/jpql/JpaMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jpql/target/classes/jpql/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jpql/target/classes/jpql/Member.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\intelliJ_IDEA\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ibC6FCvTTds3QykGiZURpL0xoh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="jpabook.jpashop.domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JpaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpabook.jpashop.JpaMain" />
+      <module name="jpashop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpabook.jpashop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpaMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1da8971-8472-44b8-9ead-7d0174af969e" name="Default Changelist" comment="" />
+      <created>1602166733573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602166733573</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add hello shop">
+      <created>1602169147629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602169147631</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add hello shop 2">
+      <created>1602176101735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602176101735</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add association relationship mapping">
+      <created>1602434396508</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602434396509</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add all association relationship mapping">
+      <created>1602585124268</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602585124270</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add 'extends' mapping and @MappedSuperclass">
+      <created>1602940146466</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602940146466</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add lazy loading and cascade">
+      <created>1604303869397</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604303869397</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add value type mapping">
+      <created>1604556858799</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604556858799</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add jpql type expression">
+      <created>1604853163977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604853163977</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add hello shop" />
+    <MESSAGE value="add hello shop 2" />
+    <MESSAGE value="add association relationship mapping" />
+    <MESSAGE value="add all association relationship mapping" />
+    <MESSAGE value="add 'extends' mapping and @MappedSuperclass" />
+    <MESSAGE value="add lazy loading and cascade" />
+    <MESSAGE value="add value type mapping" />
+    <MESSAGE value="add jpql type expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jpql type expression" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1604555234482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="207" key="#com.intellij.ide.util.MemberChooser/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604555234482" />
+    <state x="558" y="207" key="#com.intellij.ide.util.MemberChooser/1.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602939156951" />
+    <state x="558" y="207" key="#com.intellij.ide.util.MemberChooser/1920.9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602432278364" />
+    <state width="1447" height="348" key="GridCell.Tab.0.bottom" timestamp="1604853167449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1447" height="348" key="GridCell.Tab.0.bottom/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604853167449" />
+    <state width="1447" height="167" key="GridCell.Tab.0.bottom/1.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604303896916" />
+    <state width="1447" height="281" key="GridCell.Tab.0.bottom/1920.9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602585340653" />
+    <state width="1447" height="348" key="GridCell.Tab.0.center" timestamp="1604853167449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1447" height="348" key="GridCell.Tab.0.center/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604853167449" />
+    <state width="1447" height="167" key="GridCell.Tab.0.center/1.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604303896916" />
+    <state width="1447" height="281" key="GridCell.Tab.0.center/1920.9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602585340653" />
+    <state width="1447" height="348" key="GridCell.Tab.0.left" timestamp="1604853167449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1447" height="348" key="GridCell.Tab.0.left/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604853167449" />
+    <state width="1447" height="167" key="GridCell.Tab.0.left/1.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604303896915" />
+    <state width="1447" height="281" key="GridCell.Tab.0.left/1920.9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602585340653" />
+    <state width="1447" height="348" key="GridCell.Tab.0.right" timestamp="1604853167449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1447" height="348" key="GridCell.Tab.0.right/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604853167449" />
+    <state width="1447" height="167" key="GridCell.Tab.0.right/1.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604303896916" />
+    <state width="1447" height="281" key="GridCell.Tab.0.right/1920.9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602585340653" />
+    <state x="345" y="256" key="Vcs.Push.Dialog.v2" timestamp="1604556864990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="345" y="256" key="Vcs.Push.Dialog.v2/0.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604556864990" />
+    <state x="345" y="256" key="Vcs.Push.Dialog.v2/1.1080.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604303877329" />
+    <state x="345" y="256" key="Vcs.Push.Dialog.v2/1920.9.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1602585148296" />
+  </component>
+</project>
