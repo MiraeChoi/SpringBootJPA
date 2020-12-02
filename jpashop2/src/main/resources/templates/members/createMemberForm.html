@@ -5,6 +5,9 @@
      .fieldError {
      border-color: #bd2130;
      }
+     .nameError {
+     color: #bd2130;
+     }
     </style>
 <body>
 <div class="container">
@@ -17,7 +20,8 @@
                    placeholder="이름을 입력하세요"
                    th:class="${#fields.hasErrors('name')}? 'form-control fieldError' : 'form-control'">
             <p th:if="${#fields.hasErrors('name')}"
-               th:errors="*{name}">Incorrect date</p>
+               th:errors="*{name}"
+               th:class="${#fields.hasErrors('name')}? 'nameError' : 'form-control'">Incorrect date</p>
         </div>
         <div class="form-group">
             <label th:for="city">도시</label>
