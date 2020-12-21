@@ -6,6 +6,8 @@ import jpabook.jpashop2.domain.OrderItem;
 import jpabook.jpashop2.domain.OrderStatus;
 import jpabook.jpashop2.repository.OrderRepository;
 import jpabook.jpashop2.repository.OrderSearch;
+import jpabook.jpashop2.repository.order.query.OrderQueryDto;
+import jpabook.jpashop2.repository.order.query.OrderQueryRepository;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -21,6 +23,7 @@ import java.util.stream.Collectors;
 public class OrderApiController {
 
     private final OrderRepository orderRepository;
+    private final OrderQueryRepository orderQueryRepository;
     
     @GetMapping("/api/v1/orders")
     public List<Order> ordersV1() {
@@ -68,6 +71,11 @@ public class OrderApiController {
                 .collect(Collectors.toList());
 
         return result;
+    }
+
+    @GetMapping("/api/v4/orders")
+    public List<OrderQueryDto> ordersV4() {
+        return orderQueryRepository.findOrderQueryDtos();
     }
 
     @Getter
