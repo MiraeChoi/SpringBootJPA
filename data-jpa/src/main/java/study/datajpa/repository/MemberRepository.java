@@ -5,3 +5,4 @@ import study.datajpa.entity.Member;
 
 public interface MemberRepository extends JpaRepository<Member, Long> {
 }
+
