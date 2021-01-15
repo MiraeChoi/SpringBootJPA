@@ -36,11 +36,11 @@ public class MemberController {
                 .map(MemberDto::new);
     }
 
-    @PostConstruct
-    public void init() {
-        for(int i = 0; i < 100; i++) {
-            memberRepository.save(new Member("damgom" + i, i + 1));
-        }
-    }
+//    @PostConstruct
+//    public void init() {
+//        for(int i = 0; i < 100; i++) {
+//            memberRepository.save(new Member("damgom" + i, i + 1));
+//        }
+//    }
 }
 
