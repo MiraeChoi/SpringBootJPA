@@ -364,7 +364,7 @@ class MemberRepositoryTest {
         em.persist(m2);
 
         //when
-        Page<MemberProjection> result = memberRepository.findByNativeProjection(PageRequest.of(1, 10));
+        Page<MemberProjection> result = memberRepository.findByNativeProjection(PageRequest.of(0, 10));
         List<MemberProjection> content = result.getContent();
 
         for (MemberProjection memberProjection : content) {
